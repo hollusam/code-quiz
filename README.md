@@ -19,7 +19,7 @@ This is a javascript quiz app targeted to help beginners practice to be more vas
 
 Samuel: https://instagram.com/hollusam
 
-Project link: https://hollusam.github.io/Password-generator/
+Project link: https://hollusam.github.io/code-quiz/
 
 ## Acknowledgement
 
